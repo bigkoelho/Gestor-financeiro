@@ -1,0 +1,5 @@
+{
+  "name": "Gestor Financeiro Pessoal (React Edition)",
+  "description": "Uma versão profissional, moderna e escalável do Gestor Financeiro, reconstruída em React e TypeScript. Inclui guia para publicação na Google Play Store.",
+  "requestFramePermissions": []
+}
